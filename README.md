@@ -2,7 +2,7 @@
 
 Team MagicBean's static recompilation continuation of *Hookshot* (`MagicBeanDev/Longshot`). Rather than emulating console hardware at runtime, Longshot lowers Switch 2 *Ocarina of Time* ARM64 instructions into C and builds a native Vulkan executable.
 
-<img width="1024" height="1024" alt="images1" src="https://github.com/user-attachments/assets/392ded8a-1c14-4079-b007-1879a74337fa" />
+<img width="124" height="124" alt="images1" src="https://github.com/user-attachments/assets/392ded8a-1c14-4079-b007-1879a74337fa" />
 <img width="960" height="600" alt="images2" src="https://github.com/user-attachments/assets/1ea95305-06ad-478d-9fc4-fc55f5dd830f" />
 
 ## Static ARM64-to-C Translation (Zero Emulation Overhead)
